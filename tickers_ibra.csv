@@ -1,0 +1,274 @@
+ticker,company
+AALR3,Aliansce Sonae Shopping Centers
+ABCB4,Banco ABC Brasil
+ABEV3,Ambev
+AGRO3,Brasilagro
+ALPA4,Alpargatas
+ALUP11,Alupar Investimento
+AMAR3,Ânima Holding
+AMBP3,Ambipar Participações
+ANIM3,Anima Holding
+ARML3,Araminho
+ASAI3,Assaí Atacadista
+AURE3,Áurea Tecnologia
+AZUL4,Azul Linhas Aéreas
+BBAS3,Banco do Brasil
+BBDC3,Bradesco
+BBDC4,Bradesco Preferred
+BBSE3,BB Seguridade
+BEEF3,Minerva
+BHIA3,Bahia Energia
+BLAU3,Blau Farmacêutica
+BMOB3,Bemobi Mobile Tech
+BPAC11,Banco Pan
+BPAN4,Banco Pan Preferred
+BRAP4,Bradespar
+BRFS3,BRF
+BRKM5,Braskem
+BRSR6,Banrisul
+CAML3,Camil Alimentos
+CASH3,Cash Group
+CBAV3,Caixa Brasil Vida e Previdência
+CCRO3,CCR
+CEAB3,C&A Modas
+CMIG3,Cemig
+CMIG4,Cemig Preferred
+CMIN3,CSN Mineração
+COGN3,Cogna Educação
+CPFE3,CPFL Energia
+CPLE6,COPEL
+CRFB3,Carrefour Brasil
+CSAN3,Cosan
+CSMG3,Consorcio Minas Brasil
+CSNA3,Companhia Siderúrgica Nacional
+CURY3,Cury Construtora
+CVCB3,CVC Brasil
+CXSE3,Caixa Seguridade
+CYRE3,Cyrela Brazil Realty
+DASA3,Dasa
+DIRR3,Direcional Engenharia
+DXCO3,Dexco
+ECOR3,Ecorodovias
+EGIE3,Engie Brasil Energia
+ELET3,Eletrobras
+ELET6,Eletrobras Preferred
+EMBR3,Embraer
+ENEV3,Eneva
+ENGI11,Energisa
+EQTL3,Equatorial Energia
+ESPA3,Espaço Laser
+EVEN3,Even Construtora
+EZTC3,Eztec
+FESA4,Ferbasa
+FLRY3,Fleury
+FRAS3,Fras-le
+GFSA3,Gafisa
+GGBR4,Gerdau
+GGPS3,GPS Participações
+GMAT3,GO Integrations
+GOAU4,Gerdau Metalúrgica
+GRND3,Grendene
+GUAR3,Guararapes
+HAPV3,Hapvida
+HBSA3,Hidrobras
+HYPE3,Hypera Pharma
+IFCM3,Infracommerce
+IGTI11,Intermedica
+INTB3,Interbanco
+IRBR3,IRB Brasil Re
+ITSA4,Itaúsa
+ITUB3,Itaú Unibanco
+ITUB4,Itaú Unibanco Preferred
+JBSS3,JBS
+JHSF3,JHSF Participações
+KEPL3,Kepler Weber
+KLBN11,Klabin
+LAVV3,Lavvi Empreendimentos
+LEVE3,Mahle Metal Leve
+LJQQ3,Locaweb
+LOGG3,Log Commercial Properties
+LREN3,Lojas Renner
+LUPA3,Lupatech
+LWSA3,Locaweb
+MATD3,Mundo Animal
+MBLY3,Mobly
+MDIA3,M.Dias Branco
+MGLU3,Magazine Luiza
+MILS3,Mills Estruturas
+MLAS3,Multilaser
+MOVI3,Movida
+MRFG3,Marfrig
+MRVE3,MRV Engenharia
+MTRE3,Maestro
+MULT3,Multiplus
+MYPK3,Iochpe-Maxion
+NEOE3,Neoenergia
+NTCO3,Natura &Co
+ODPV3,Oderich
+ONCO3,Oncoclinicas
+ORVR3,Órama Investimentos
+PCAR3,PeixeUrbano
+PETR3,Petrobras
+PETR4,Petrobras Preferred
+PETZ3,Petz
+PGMN3,Patagonia
+PLPL3,Poliplex
+PNVL3,Plano & Plano
+POMO4,Marcopolo
+POSI3,Positivo Tecnologia
+PRIO3,Prio
+PSSA3,Porto Seguro
+PTBL3,Petrobras Distribuidora
+QUAL3,Qualicorp
+RADL3,Raízen
+RAIL3,Rumo
+RAIZ4,Raizen
+RANI3,Rani Indústrias
+RAPT4,Randon
+RCSL3,Recrusul
+RDOR3,Rede D'Or
+RECV3,Receita Federal
+RENT3,Localiza
+ROMI3,Indústrias Romi
+SANB11,Banco Santander Brasil
+SAPR11,COPEL
+SBFG3,SBF Lojas
+SBSP3,Sabesp
+SEER3,Ser Educacional
+SIMH3,Simpar
+SLCE3,SLC Agrícola
+SMFT3,Smartfit
+SMTO3,São Martinho
+SRNA3,Serrana
+SUZB3,Suzano
+TAEE11,Taesa
+TASA4,Tam Linhas Aéreas
+TEND3,Tenda
+TGMA3,Tegma
+TIMS3,Tim Participações
+TOTS3,Totvs
+TRIS3,Trisul
+TRPL4,Transmissão Paulista
+TTEN3,3Tentos
+TUPY3,Tupy
+UGPA3,Ultrapar
+UNIP6,Uniper
+USIM5,Usiminas
+VALE3,Vale
+VAMO3,Vamos
+VBBR3,Vibra Energia
+VIVA3,Vivara
+VIVT3,Vivo
+VLID3,Valid
+VULC3,Vulcabras
+VVEO3,Vero Investimentos
+WEGE3,WEG
+WIZC3,Wizard
+YDUQ3,Yduqs
+ZAMP3,Zamp
+AAPL,Apple Inc.
+MSFT,Microsoft Corporation
+GOOGL,Alphabet Inc. (Google)
+AMZN,Amazon.com Inc.
+META,Meta Platforms Inc.
+NVDA,NVIDIA Corporation
+TSLA,Tesla Inc.
+AMD,Advanced Micro Devices Inc.
+INTC,Intel Corporation
+CRM,Salesforce.com Inc.
+ORCL,Oracle Corporation
+ADBE,Adobe Inc.
+CSCO,Cisco Systems Inc.
+IBM,International Business Machines
+QCOM,Qualcomm Inc.
+AVGO,Broadcom Inc.
+TXN,Texas Instruments Inc.
+JPM,JPMorgan Chase & Co.
+BAC,Bank of America Corp.
+GS,Goldman Sachs Group Inc.
+MS,Morgan Stanley
+C,Citigroup Inc.
+WFC,Wells Fargo & Co.
+BLK,BlackRock Inc.
+AXP,American Express Co.
+V,Visa Inc.
+MA,Mastercard Inc.
+SCHW,Charles Schwab Corp.
+JNJ,Johnson & Johnson
+PFE,Pfizer Inc.
+UNH,UnitedHealth Group Inc.
+MRK,Merck & Co.
+ABT,Abbott Laboratories
+TMO,Thermo Fisher Scientific
+DHR,Danaher Corporation
+BMY,Bristol-Myers Squibb
+ABBV,AbbVie Inc.
+LLY,Eli Lilly and Company
+WMT,Walmart Inc.
+PG,Procter & Gamble Co.
+KO,Coca-Cola Company
+PEP,PepsiCo Inc.
+COST,Costco Wholesale Corp.
+NKE,Nike Inc.
+MCD,McDonald's Corporation
+TGT,Target Corporation
+HD,Home Depot Inc.
+SBUX,Starbucks Corporation
+CAT,Caterpillar Inc.
+BA,Boeing Company
+GE,General Electric Co.
+MMM,3M Company
+HON,Honeywell International Inc.
+UPS,United Parcel Service
+RTX,Raytheon Technologies
+LMT,Lockheed Martin Corp.
+DE,Deere & Company
+EMR,Emerson Electric Co.
+XOM,Exxon Mobil Corporation
+CVX,Chevron Corporation
+COP,ConocoPhillips
+EOG,EOG Resources
+SLB,Schlumberger Limited
+VZ,Verizon Communications Inc.
+T,AT&T Inc.
+CMCSA,Comcast Corporation
+NFLX,Netflix Inc.
+DIS,The Walt Disney Company
+AMT,American Tower Corp.
+PLD,Prologis Inc.
+CCI,Crown Castle Inc.
+LIN,Linde plc
+APD,Air Products & Chemicals
+DOW,Dow Inc.
+F,Ford Motor Company
+GM,General Motors Company
+TM,Toyota Motor Corp.
+EA,Electronic Arts Inc.
+TTWO,Take-Two Interactive
+PYPL,PayPal Holdings Inc.
+SHOP,Shopify Inc.
+BABA,Alibaba Group Holding
+AMAT,Applied Materials Inc.
+KLAC,KLA Corporation
+LRCX,Lam Research Corp.
+NOW,ServiceNow Inc.
+WDAY,Workday Inc.
+SNOW,Snowflake Inc.
+PANW,Palo Alto Networks Inc.
+CRWD,CrowdStrike Holdings Inc.
+FTNT,Fortinet Inc.
+GILD,Gilead Sciences Inc.
+REGN,Regeneron Pharmaceuticals
+BIIB,Biogen Inc.
+NOC,Northrop Grumman Corp.
+GD,General Dynamics Corp.
+KHC,Kraft Heinz Company
+MDLZ,Mondelez International
+UNP,Union Pacific Corporation
+CSX,CSX Corporation
+MET,MetLife Inc.
+ZTS,Zoetis Inc.
+VTRS,Viatris Inc.
+ADM,Archer-Daniels-Midland Co.
+FCX,Freeport-McMoRan Inc.
+NEE,NextEra Energy Inc.
